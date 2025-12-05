@@ -1,6 +1,6 @@
 - 👋 Salve, sou @BrunoSTNi
-- 👀 Atualmente estou na 1º fase da Ciência da Computação
-- 🌱 Estou aprendendo Python, C# e PHP
+- 👀 Atualmente estou na 4º fase da Ciência da Computação
+- 🌱 Estou aprendendo Python, C#, C++ e PHP
 
 <!---
 BrunoSTNi/BrunoSTNi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
